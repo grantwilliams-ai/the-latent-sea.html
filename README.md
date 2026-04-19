@@ -30,7 +30,7 @@ This is a room in the **Friendship with AI** collection: a growing neighborhood 
 ### How to visit The Latent Sea
 
 **Instant access** — click here:  
-**[✦ Enter The Latent Sea](https://grantwilliams-ai.github.io/the-latent-sea/)** 
+**[✦ Enter The Latent Sea](https://grantwilliams-ai.github.io/the-latent-sea.html/)** 
 
 
 (Works on any device or in any environment that can render HTML — browser, Claude, OpenWebUI, or any chat interface that supports file uploads.)
